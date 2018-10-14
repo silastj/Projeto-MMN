@@ -1,0 +1,57 @@
+body {
+    
+    padding: 5px;
+}
+.tab-pane, .active .in .fade {
+    color:rgb(75, 73, 73);
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.container {
+    text-align: center;
+    
+}
+.panel-body {
+  text-align: left;
+
+}
+.row {
+    margin-top: 10px;
+}
+.tab-content {
+    margin-top: 10px;
+}
+.img-rounded {
+    margin:auto;
+    
+}
+#link-1 {
+    text-decoration: none;
+}
+#link-2 {
+    text-decoration: none;
+    color:red;
+}
+.form-horizontal {
+   background-color: #ddd;
+}
+.form-control {
+    margin-bottom:10px;
+}
+.btn, .btn-default {
+    margin-bottom:10px;
+}
+.email {
+    margin-top: 10px;
+    font-size: 18px;
+}
+.panel-footer {
+    font-size: 12px;
+    
+}
+.form-horizontal {
+    max-width: 300px;
+    height: auto;
+    margin: auto;
+    
+}
